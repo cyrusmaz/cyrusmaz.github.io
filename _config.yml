@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "emadzadegan.github.io 222"
+title                    : "emadzadegan.github.io"
 title_separator          : "-"
-name                     : &name "emadzadegan.github.io"
+name                     : &name "Emad Zadegan"
 description              : &description "Graduate student in Statistics"
 url                      : https://emadzadegan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
