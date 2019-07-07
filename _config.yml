@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "emadzadegan.github.io"
 title_separator          : "-"
 name                     : &name "Emad Zadegan"
-description              : &description "Graduate student in Statistics"
+description              : # &description "Graduate student in Statistics"
 url                      : https://emadzadegan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emadzadegan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Emad Zadegan"
   avatar           : "profile.png"
-  bio              : "MSc Statistics, \n BSc Mathematics"
+  bio              : "Statistics, Mathematics, Machine Learning"
   location         : "Toronto, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
