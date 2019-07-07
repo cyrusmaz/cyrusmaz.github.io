@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Project"
+title: "Machine Learning"
 excerpt: "Bayesian Neural Networks"
 collection: portfolio
 ---
