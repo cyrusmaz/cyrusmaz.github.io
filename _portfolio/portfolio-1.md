@@ -1,7 +1,8 @@
 ---
-title: "Probability"
-excerpt: "Probability Exercises"
+title: "Machine Learning"
+excerpt: "Partial Bayesian Neural Network"
 collection: portfolio
 ---
 
-[Solutions to selected exercises from Rick Durrett's Probability: Theory and Examples, 4th edition](https://github.com/emadzadegan/emadzadegan.github.io/blob/master/files/Probability.pdf)
+
+[Partial Bayesian Neural Networks](https://github.com/emadzadegan/emadzadegan.github.io/blob/master/files/Probability.pdf)
