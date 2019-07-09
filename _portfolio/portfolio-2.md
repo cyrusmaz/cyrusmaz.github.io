@@ -1,6 +1,6 @@
 ---
 title: "Applied Statistics"
-excerpt: "An Analysis of Atmospheric CO2 Concentrations"
+excerpt: "An analysis of atmospheric CO2 concentrations"
 collection: portfolio
 ---
 
