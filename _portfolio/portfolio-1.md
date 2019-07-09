@@ -4,7 +4,9 @@ excerpt: "Partial Bayesian Neural Networks"
 collection: portfolio
 ---
 
-[This](https://github.com/emadzadegan/emadzadegan.github.io/blob/master/files/CSC_2516_Project.pdf) is the course project for CSC 2516, the graduate graduate in neural networks offered by the University of Toronto. The accompanying code is contained [here](https://github.com/emadzadegan/emadzadegan.github.io/blob/master/files/CSC_2516_Project_code.ipynb). 
+[Report](https://github.com/emadzadegan/emadzadegan.github.io/blob/master/files/CSC_2516_Project.pdf) 
+
+This was my course project for CSC 2516, the graduate in neural networks offered by the University of Toronto. The accompanying code is [here](https://github.com/emadzadegan/emadzadegan.github.io/blob/master/files/CSC_2516_Project_code.ipynb). 
 
 From the abstract: 
 
@@ -18,3 +20,6 @@ A partial Bayesian neural network reduces the dimensionality of the posterior
 in comparison to a Bayesian neural network, and we found that ensembles of
 partial Bayesian neural networks can approximate Bayesian neural networks quite
 accurately.**
+
+
+see [here](https://emadzadegan.github.io/portfolio/portfolio-2/) for background on **fully** Bayesian neural networks.
