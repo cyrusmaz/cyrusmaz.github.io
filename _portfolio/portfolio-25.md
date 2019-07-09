@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning"
-excerpt: "Bayesian Neural Networks"
+excerpt: "(Fully) Bayesian Neural Networks"
 collection: portfolio
 ---
 
