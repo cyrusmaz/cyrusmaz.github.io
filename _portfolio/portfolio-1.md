@@ -8,7 +8,7 @@ This was my course project for CSC 2516, the graduate in neural networks offered
 
 [The Report](https://github.com/emadzadegan/emadzadegan.github.io/blob/master/files/CSC_2516_Project.pdf) 
 
-[The Code](https://github.com/emadzadegan/emadzadegan.github.io/blob/master/files/CSC_2516_Project_code.ipynb). 
+[The Code](https://github.com/emadzadegan/emadzadegan.github.io/blob/master/files/CSC_2516_Project_code.ipynb) 
 
 From the abstract: 
 
