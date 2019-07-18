@@ -1,6 +1,6 @@
 ---
-title: "Volatile Derivatives: Using Monte Carlo Simulations to Assess Profitability of an Adaptive Trading Strategy"
-excerpt: "Using Monte Carlo simulations to assess profitability of a trading strategy"
+title: "Trading Volatile Markets for Profit"
+excerpt: "Formulating a strategy and assessing its performance using Monte Carlo simulations "
 collection: portfolio
 ---
 
