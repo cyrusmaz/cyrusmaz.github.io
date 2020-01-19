@@ -4,7 +4,7 @@ excerpt: "Partial Bayesian Neural Networks"
 collection: portfolio
 ---
 
-[This](https://github.com/emadzadegan/emadzadegan.github.io/blob/master/files/CSC_2516_Project.pdf) was my course project for CSC 2516, the graduate in neural networks offered by the University of Toronto. 
+[This](https://github.com/emadzadegan/emadzadegan.github.io/raw/master/files/CSC_2516_Project.pdf) was my course project for CSC 2516, the graduate in neural networks offered by the University of Toronto. 
 
 From the abstract: 
 
