@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "emadzadegan.github.io"
+title                    : "cyrusmaz.github.io"
 title_separator          : "-"
-name                     : &name "Emad Zadegan"
+name                     : &name "Cyrus Maz"
 description              : # &description "Graduate student in Statistics"
-url                      : https://emadzadegan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cyrusmaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "emadzadegan.github.io"
+repository               : "cyrusmaz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Emad Zadegan"
+  name             : "Cyrus Maz"
   avatar           : "profile.png"
   bio              : "Statistics, Mathematics, Machine Learning"
   location         : "Toronto, Canada"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "emadzadegan"
+  github           : "cyrusmaz"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/emad-zadegan-a6680618a/
+  linkedin         : # https://www.linkedin.com/in/emad-zadegan-a6680618a/
   orcid            : 
   pinterest        :
   soundcloud       :
