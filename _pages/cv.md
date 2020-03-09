@@ -21,6 +21,6 @@ Skills
 * Machine Learning
 * R
 * Python
-* Java
-* C++
+* SQL
+* Apache Spark 
 
