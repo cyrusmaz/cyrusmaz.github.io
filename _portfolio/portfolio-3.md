@@ -1,6 +1,6 @@
 ---
 title: "Trading Volatile Markets for Profit"
-excerpt: "Formulating a strategy and assessing its performance using Monte Carlo simulations "
+excerpt: "Formulating a trading strategy and assessing its performance using Monte Carlo simulations "
 collection: portfolio
 ---
 
