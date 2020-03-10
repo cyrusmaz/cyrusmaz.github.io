@@ -4,4 +4,5 @@ excerpt: "Formulating a trading strategy and assessing its performance using Mon
 collection: portfolio
 ---
 
-[This](https://github.com/cyrusmaz/cyrusmaz.github.io/blob/master/files/TradingVolatileDerivatives.pdf) project is an exploration of a trend-following trading strategy based on moving averages, a tight risk management strategy, as well as adaptation mechanism. The accompanying code is [here](https://github.com/cyrusmaz/cyrusmaz.github.io/tree/master/files/auto_trading).
+<a href="https://cyrusmaz.github.io/files/TradingVolatileDerivatives.pdf">This</a>
+project is an exploration of a trend-following trading strategy based on moving averages, a tight risk management strategy, as well as adaptation mechanism. The accompanying code is [here](https://github.com/cyrusmaz/cyrusmaz.github.io/tree/master/files/auto_trading).
