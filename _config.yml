@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CyrusMaz.com"
+title                    : "Cyrus Maz"
 title_separator          : "-"
 name                     : &name "Cyrus Maz"
 description              : # &description "Graduate student in Statistics"
