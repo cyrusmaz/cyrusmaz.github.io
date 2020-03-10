@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-<a href="https://cyrusmaz.github.io/portfolio/files/CSC_2516_Project.pdf">This</a>
+<a href="https://cyrusmaz.github.io/files/CSC_2516_Project.pdf">This</a>
 was my course project for CSC 2516, the graduate in neural networks offered by the University of Toronto. 
 
 From the abstract: 
@@ -21,5 +21,6 @@ in comparison to a Bayesian neural network, and we found that ensembles of
 partial Bayesian neural networks can approximate Bayesian neural networks quite
 accurately.*
 
-See [here](/files/CSC_2516_Project_code.ipynb) for the accompanying Jupyter Notebook.
+See <a href="https://cyrusmaz.github.io/files/CSC_2516_Project_code.ipynb">here</a> for the accompanying Jupyter Notebook.
+
 See [here](https://cyrusmaz.github.io/portfolio/portfolio-5/) for background on **fully** Bayesian neural networks.
