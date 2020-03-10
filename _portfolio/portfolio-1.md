@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-<a href="https://cyrusmaz.github.io/portfolio/files/CSC_2516_Project.pdf" target="_blank">This</a>
+<a href="https://cyrusmaz.github.io/portfolio/files/CSC_2516_Project.pdf">This</a>
 was my course project for CSC 2516, the graduate in neural networks offered by the University of Toronto. 
 
 From the abstract: 
