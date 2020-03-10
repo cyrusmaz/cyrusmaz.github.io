@@ -21,6 +21,6 @@ in comparison to a Bayesian neural network, and we found that ensembles of
 partial Bayesian neural networks can approximate Bayesian neural networks quite
 accurately.*
 
-See <a href="https://cyrusmaz.github.io/files/CSC_2516_Project_code.ipynb">here</a> for the accompanying Jupyter Notebook.
+See [here](https://cyrusmaz.github.io/files/CSC_2516_Project_code.ipynb) for the accompanying Jupyter Notebook.
 
 See [here](https://cyrusmaz.github.io/portfolio/portfolio-5/) for background on **fully** Bayesian neural networks.
