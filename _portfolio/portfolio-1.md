@@ -4,7 +4,7 @@ excerpt: "Partial Bayesian Neural Networks"
 collection: portfolio
 ---
 
-[This](https://github.com/emadzadegan/emadzadegan.github.io/raw/master/files/CSC_2516_Project.pdf) was my course project for CSC 2516, the graduate in neural networks offered by the University of Toronto. 
+[This](github.com/cyrusmaz/cyrusmaz.github.io/raw/master/files/CSC_2516_Project.pdf) was my course project for CSC 2516, the graduate in neural networks offered by the University of Toronto. 
 
 From the abstract: 
 
@@ -19,5 +19,5 @@ in comparison to a Bayesian neural network, and we found that ensembles of
 partial Bayesian neural networks can approximate Bayesian neural networks quite
 accurately.*
 
-See [here](https://github.com/cyrusmaz/cyrusmaz.github.io/blob/master/files/CSC_2516_Project_code.ipynb) for the accompanying Jupyter Notebook.
-See [here](https://cyrusmaz.github.io/portfolio/portfolio-5/) for background on **fully** Bayesian neural networks.
+See [here](github.com/cyrusmaz/cyrusmaz.github.io/blob/master/files/CSC_2516_Project_code.ipynb) for the accompanying Jupyter Notebook.
+See [here](cyrusmaz.github.io/portfolio/portfolio-5/) for background on **fully** Bayesian neural networks.
