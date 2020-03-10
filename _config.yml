@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "cyrusmaz.github.io"
+title                    : "CyrusMaz.com"
 title_separator          : "-"
 name                     : &name "Cyrus Maz"
 description              : # &description "Graduate student in Statistics"
