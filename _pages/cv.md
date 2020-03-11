@@ -12,6 +12,7 @@ redirect_from:
 ## Education
 * BSc, Mathematics, University of British Columbia, 2017
 * MSc, Statistics, University of Toronto, 2019
+
 ## Skills
 * Data Analysis
 * Statistics
@@ -21,6 +22,7 @@ redirect_from:
 * SQL
 * Apache Spark
 ## Teaching Experience
+
 * Teaching Assistant, University of Toronto:
   * STA 261
   * STA 365: Applied Bayesian Analysis
