@@ -23,9 +23,10 @@ redirect_from:
 * Apache Spark
 
 ## Teaching Experience
-* University of Toronto:
+* Teaching Assistant, University of Toronto:
   * STA 261
   * STA 365: Applied Bayesian Analysis
   * STA 414: 
-* University of British Columbia:
+  
+* Teaching Assistant, University of British Columbia:
   * MATH 
