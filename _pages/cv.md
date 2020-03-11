@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# CV: <a href="https://cyrusmaz.github.io/files/cv.pdf">PDF</a>
+## <a href="https://cyrusmaz.github.io/files/cv.pdf">PDF</a>
 
 ## Education
 * BSc, Mathematics, University of British Columbia, 2017
