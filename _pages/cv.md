@@ -21,8 +21,8 @@ redirect_from:
 * Python
 * SQL
 * Apache Spark
-## Teaching Experience
 
+## Teaching Experience
 * Teaching Assistant, University of Toronto:
   * STA 261
   * STA 365: Applied Bayesian Analysis
