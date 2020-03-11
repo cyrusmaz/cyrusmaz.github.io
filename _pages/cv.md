@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}: <a href="https://cyrusmaz.github.io/files/cv.pdf">PDF</a>
+# CV: <a href="https://cyrusmaz.github.io/files/cv.pdf">PDF</a>
 
 ## Education
 * BSc, Mathematics, University of British Columbia, 2017
