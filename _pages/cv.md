@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 ## <a href="https://cyrusmaz.github.io/files/cv.pdf">PDF</a>
-
 ## Education
 * BSc, Mathematics, University of British Columbia, 2017
 * MSc, Statistics, University of Toronto, 2019
