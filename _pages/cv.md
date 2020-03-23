@@ -22,8 +22,9 @@ redirect_from:
 
 ## Teaching Experience
 * Teaching Assistant, University of Toronto:
-  * STA 261
+  * STA 302: Linear Regression
+  * STA 305: Design and Analysis of Experiments
   * STA 365: Applied Bayesian Analysis
-  * STA 414: 
-* Teaching Assistant, University of British Columbia:
-  * MATH 
+  * STA 414: Statistical Methods for Machine Learning II
+  * STA 442: Applied Statistics I 
+
