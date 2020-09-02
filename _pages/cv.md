@@ -6,7 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[comment]: ## <a href="https://cyrusmaz.github.io/files/cv_maz.pdf">PDF</a>
+
+[//]: # (## <a href="https://cyrusmaz.github.io/files/cv_maz.pdf">PDF</a>)
+
 ## Education
 * BSc, Mathematics, University of British Columbia, 2017
 * MSc, Statistics, University of Toronto, 2019
@@ -28,4 +30,4 @@ redirect_from:
   * STA 414: Statistical Methods for Machine Learning II
   * STA 442: Applied Statistics I 
 
-[//]: # (This may be the most platform independent comment)
+
