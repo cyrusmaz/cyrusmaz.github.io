@@ -28,3 +28,4 @@ redirect_from:
   * STA 414: Statistical Methods for Machine Learning II
   * STA 442: Applied Statistics I 
 
+[//]: # (This may be the most platform independent comment)
