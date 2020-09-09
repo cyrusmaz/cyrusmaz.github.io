@@ -1,5 +1,5 @@
 ---
-title: "Trading"
+title: "Machine Learning"
 excerpt: ""
 collection: portfolio
 ---
