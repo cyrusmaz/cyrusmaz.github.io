@@ -10,8 +10,8 @@ redirect_from:
 [//]: # (## <a href="https://cyrusmaz.github.io/files/cv_maz.pdf">PDF</a>)
 
 ## Education
-* BSc, Mathematics, University of British Columbia, 2017
-* MSc, Statistics, University of Toronto, 2019
+* BSc, Mathematics, University of British Columbia
+* MSc, Statistics, University of Toronto
 
 ## Skills
 * Data Analysis
