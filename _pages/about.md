@@ -9,8 +9,8 @@ redirect_from:
 ---
 I received my BSc in Mathematics from the University of British Columbia in 2017 and my MSc in Statistics from the University of Toronto in 2019. 
 
-Previously: trading / financial markets
+Previously: fintech, insurtech
 
-Currently: fraud detection / insurance
+Currently: freelance
 
 I have curated some of my projects <a href="https://www.cyrusmaz.com/portfolio/">here</a> as a personal archive and for your perusal.
