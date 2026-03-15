@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Cyrus Maz"
   avatar           : "profile.jpg"
-  bio              : "Statistics, Mathematics, Trading"
-  location         : "Montreal, QC, Canada"
+  bio              : "Data Science, Software, Consulting"
+  location         : "Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "cyrusmaz6@gmail.com"
+  email            : "cyrusmazdotcom@pm.me"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
